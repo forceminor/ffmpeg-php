@@ -1,4 +1,1 @@
-ffmpeg-php
-==========
-
-FFmpegPHP is a pure OO PHP port of ffmpeg-php writter in C. It adds an easy to use, object-oriented API for accessing and retrieving information from video and audio files. It has methods for returning frames from movie files as images that can be manipulated using PHP's image functions. This works well for automatically creating thumbnail images from movies. FFmpegPHP is also useful for reporting the duration and bitrate of audio files (mp3, wma...). FFmpegPHP can access many of the video formats supported by ffmpeg (mov, avi, mpg, wmv...) 
+Repository transfered to: https://github.com/CodeScaleInc/ffmpeg-php
